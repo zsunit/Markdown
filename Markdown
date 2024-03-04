@@ -1,0 +1,24 @@
+# My First Markdown
+=====================
+##Excited
+____________
+
+**bold**
+__bold__
+
+*italics*
+_italics_
+
+~~strikethrough~~
+
+>Quotation
+
+--- Horizontal Rule
+*** Asteriks
+___ Underscores
+
+Lists
+- Hypehns
+
+
+
